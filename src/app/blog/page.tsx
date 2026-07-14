@@ -13,7 +13,7 @@ export default function BlogPage() {
       {/* Hero Section */}
       <section className="relative bg-zinc-900 py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl lg:text-5xl font-bold text-white mb-4">Our Blog</h1>
+          <h1 className="text-4xl lg:text-5xl font-bold text-white mb-4">Blog</h1>
           <p className="text-gray-400 text-lg">Tips, trends, and advice from your local barbers</p>
         </div>
       </section>
