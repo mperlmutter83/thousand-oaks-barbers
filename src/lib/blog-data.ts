@@ -12,6 +12,86 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'beard-trim-line-up-thousand-oaks',
+    title: 'Beard Trim & Line Up in Thousand Oaks: Styles, Prices & What to Ask For',
+    seoTitle: 'Beard Trim & Line Up in Thousand Oaks | Styles & Tips',
+    metaDescription: 'Get a sharp beard trim and line up in Thousand Oaks. Popular styles, what to ask your barber, and aftercare tips from Thousand Oaks Barbers. Book today.',
+    date: 'Jul 21, 2026',
+    category: 'Beard Care & Grooming',
+    excerpt: 'A great beard doesn\'t happen by accident. Whether you\'re growing out a full beard for the first time or you\'ve been rocking one for years, regular professional trims are the difference between "well-groomed" and "went camping and forgot a razor."',
+    content: `A great beard doesn't happen by accident. Whether you're growing out a full beard for the first time or you've been rocking one for years, regular professional trims are the difference between "well-groomed" and "went camping and forgot a razor." If you've been searching for a beard trim in Thousand Oaks, here's everything you need to know before you sit in the chair — the styles worth asking for, what a proper line up actually involves, and how to keep your beard looking sharp between visits.
+
+## What's the Difference Between a Beard Trim and a Line Up?
+
+They're related, but they're not the same thing — and knowing the difference helps you ask for exactly what you want.
+
+A **beard trim** is about length and shape. Your barber uses clippers, scissors, and a comb to take down bulk, even out patchy spots, and sculpt the overall silhouette of your beard so it complements your face shape and haircut.
+
+A **beard line up** (sometimes called an edge-up or shape-up) is about the borders. Your barber defines crisp, clean lines along your cheeks, jawline, and neckline — usually finishing with a straight razor for that skin-smooth edge you can't get at home with a trimmer. It's the detail work that makes a beard look intentional.
+
+Most guys in the Conejo Valley book both together: a trim to manage length, a line up to lock in the shape. At Thousand Oaks Barbers, that's the standard approach — Devin and the team treat the beard as part of the whole look, not an afterthought tacked onto a haircut.
+
+## Popular Beard Styles to Ask For
+
+Not sure what to request? These are the styles we shape most often in the shop:
+
+### The Corporate Beard
+Short to medium length, tightly groomed, with clean cheek and neck lines. Professional enough for the office, rugged enough for the weekend. Great first "real beard" style.
+
+### The Full Beard with Fade
+The beard blends seamlessly into a faded haircut, with the sideburn transition tapered so there's no hard line between hair and beard. This one really rewards a skilled barber — the blend is everything.
+
+### The Short Boxed Beard
+Follows the natural jawline with defined edges and a trimmed mustache. Low maintenance, flattering on almost every face shape.
+
+### The Goatee & Extended Goatee
+Chin-focused styles, with or without a connected mustache. Excellent if your cheek growth is patchy — you work with what grows best.
+
+### The Stubble Line Up
+Even heavy stubble looks dramatically better with defined lines. If you keep things short, a quick line up every couple of weeks keeps you looking deliberate instead of scruffy.
+
+## How to Tell Your Barber What You Want
+
+You don't need barber vocabulary — you just need to communicate a few basics:
+
+- **Length:** "Take off about half" or "just clean it up, keep the length" both work fine. Photos help even more.
+- **Cheek line:** Natural and soft, or crisp and defined? A slightly lower, natural cheek line looks fuller; a sharp line looks cleaner.
+- **Neckline:** This is where most home trims go wrong. A good barber sets it roughly two finger-widths above the Adam's apple — high enough to look clean, low enough that your beard doesn't look like a chinstrap.
+- **Mustache:** Trimmed above the lip, or left fuller? Say so up front.
+- **The blend:** If you get fades or tapers, ask for the beard to be blended into your haircut.
+
+And honestly — if you're not sure, just say that. Devin is known around Thousand Oaks for taking the time to look at your growth pattern and face shape and recommending what will actually work, not just running clippers on autopilot. Attention to detail is kind of the whole point of a traditional barbershop.
+
+## How Often Should You Get a Beard Trim?
+
+It depends on your style and how fast your beard grows, but here's a reliable rule of thumb:
+
+- **Short beards and stubble:** every 1–2 weeks to keep lines crisp
+- **Medium beards:** every 2–3 weeks
+- **Long, full beards:** every 3–4 weeks for shape maintenance
+
+Many of our regulars pair a beard trim with their usual haircut appointment — it keeps everything on the same cycle and the whole look stays cohesive.
+
+## What Does a Beard Trim Cost in Thousand Oaks?
+
+Pricing varies depending on what your beard needs — a quick stubble line up is a different job than reshaping three months of growth. Current pricing for beard trims and line ups is available when you [book your appointment online](https://thousandoaksbarbers.com/book-now/) or by calling the shop at (805) 909-4450. If you want the full traditional experience, ask about adding a [hot-towel straight razor shave](https://thousandoaksbarbers.com/straight-razor-shaves-in-thousand-oaks-what-to-expect/) for the neck and cheek work.
+
+## Beard Aftercare: Keeping It Sharp Between Visits
+
+A professional trim sets the shape — your daily routine maintains it:
+
+- **Wash 2–3 times a week** with a gentle cleanser, not harsh shampoo that strips natural oils.
+- **Use beard oil daily.** A few drops worked into the beard and the skin underneath softens the hair, prevents itch and flaking, and keeps everything looking healthy. We keep [beard oil in stock at the shop](https://thousandoaksbarbers.com/product/beard-oil/) if you want to grab a bottle on your way out.
+- **Comb or brush daily** to train growth direction and distribute oil evenly.
+- **Resist DIY line ups.** Touch up stray hairs, sure — but leave the cheek and neck lines to your barber. One slip and you're starting over.
+
+## Visit Thousand Oaks Barbers
+
+Ready for a beard that looks like you meant it? Thousand Oaks Barbers is a traditional barbershop at **658 Thousand Oaks Blvd., Thousand Oaks, CA 91360**, open daily from **10am to 10pm** — so a sharp line up fits your schedule, not the other way around. Whether you need a full beard reshape, a quick edge-up, or a trim paired with a fresh cut, Devin and the team will get you dialed in.
+
+**[Book your beard trim online](https://thousandoaksbarbers.com/book-now/) or call (805) 909-4450 today.** Walk out with the cleanest lines in the Conejo Valley.`
+  },
+  {
     slug: 'affordable-haircuts-in-thousand-oaks-where-to-go',
     title: 'Affordable Haircuts in Thousand Oaks: Where to Go',
     date: 'Apr 29, 2026',
