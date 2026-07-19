@@ -13,6 +13,259 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'mens-facial-thousand-oaks-scrub-black-mask',
+    title: "Men's Facials at the Barbershop: Scrub & Black Mask Explained",
+    seoTitle: "Men's Facials Thousand Oaks | Scrub & Black Mask",
+    metaDescription: "Men's facial in Thousand Oaks: scrub exfoliates, black mask clears pores. Great for guys who shave. Book at Thousand Oaks Barbers today.",
+    date: 'Aug 4, 2026',
+    publishedAt: '2026-08-04',
+    category: 'Grooming & Skincare',
+    excerpt: "Men's facial in Thousand Oaks: scrub exfoliates, black mask clears pores. Great for guys who shave. Book at Thousand Oaks Barbers today.",
+    content: `Let's clear something up right away: facials aren't just a spa thing. At Thousand Oaks Barbers, a men's facial is a straightforward, no-fuss grooming service built for the way guys actually live — and it pairs perfectly with the haircut you were already coming in for. If you shave, work outside, or just want your skin to feel less like sandpaper, this one's worth knowing about.
+
+Here's what our scrub & black mask facial actually does, who it's for, and what to expect when you sit down in Devin's chair.
+
+## What Is a Barbershop Facial, Really?
+
+A barbershop facial is a short, practical skincare treatment done right at the shop — no robes, no whale sounds, no upsell. Ours has two simple steps: an exfoliating scrub followed by a black mask. Together they clean out the gunk that soap alone leaves behind and leave your face feeling fresh and smooth.
+
+Think of it as the grooming equivalent of a good detail on your car. Your regular routine keeps things ticking, but every so often you want the deep clean that actually gets into the corners.
+
+## Step One: The Scrub
+
+### Why exfoliation matters for men
+
+Your skin sheds dead cells constantly, and they don't always let go on their own. When they build up, your face looks dull, feels rough, and your pores clog more easily. The scrub step buffs all of that away, revealing the fresher skin underneath.
+
+### A big win for guys who shave
+
+If you shave — especially with a blade — exfoliation is your friend. Dead skin and trapped hairs are a leading cause of razor bumps and ingrown hairs. By clearing the surface first, a scrub helps your hair grow out cleanly instead of curling back into the skin. Smoother prep also means a closer, more comfortable shave. It's why a facial and a shave go so well together.
+
+## Step Two: The Black Mask
+
+Once your skin is prepped, on goes the black mask. This is the step most guys remember, because you can genuinely feel it working.
+
+A black mask is designed to draw out excess oil and the debris that collects in your pores over the course of a week. As it sets, it grabs onto blackheads and buildup, and unclogs pores that get congested from sweat, sunscreen, and everyday Conejo Valley dust. When it comes off, your skin looks clearer and feels tighter and cleaner — without the greasy shine.
+
+It's a cosmetic refresh, plain and simple. If you're dealing with a persistent skin condition, that's a conversation for a dermatologist — but for general maintenance and a solid clean, the mask does its job.
+
+## Who Benefits From a Men's Facial?
+
+Honestly, most guys. But it's especially worth it if you:
+
+- **Shave regularly** and battle razor bumps or ingrown hairs
+- **Have oily or congested skin** or notice blackheads on your nose and chin
+- **Work outdoors** or spend a lot of time in the sun and dust
+- **Never really "do" skincare** and want an easy reset without a 10-step routine
+- **Have a big event coming up** — a wedding, photos, an interview — and want to look sharp
+
+No experience required. You don't need to know a single skincare term to enjoy it.
+
+## What to Expect at Your Appointment
+
+The whole thing is relaxed and quick. You'll get comfortable in the chair while your barber cleanses and applies the scrub, working it in to lift away dead skin. Next comes the black mask, which sets for a few minutes — a good moment to actually unwind. Once it's removed and your skin is wiped down, you're good to go, looking and feeling refreshed.
+
+It's low-commitment and easy to add onto a visit you're already making.
+
+## Pair It With a Cut or a Straight Razor Shave
+
+A facial is great on its own, but it shines as an add-on. Getting it before a [straight razor shave](https://thousandoaksbarbers.com/straight-razor-shaves-in-thousand-oaks-what-to-expect/) preps your skin for the smoothest, most comfortable pass of the blade. Tack it onto a haircut and you walk out completely dialed in — fresh cut, clean skin, ready for the week. If you've never had a proper straight razor shave, our guide on [what to expect](https://thousandoaksbarbers.com/straight-razor-shaves-in-thousand-oaks-what-to-expect/) is a good read.
+
+## Simple Aftercare
+
+You don't need to overthink it. For the rest of the day:
+
+- Rinse with cool-to-lukewarm water rather than scrubbing again
+- Use a light moisturizer to keep skin comfortable
+- Wear sunscreen if you're heading back outside
+- Skip harsh products for a day and let your skin enjoy the fresh start
+
+That's it. Easy in, easy out, no complicated regimen to keep up with.
+
+## Ready to Try It?
+
+You take care of your car, your gear, your fade — your skin deserves the same. A scrub & black mask facial is one of the easiest ways to feel sharper, and it fits right into a visit to Thousand Oaks Barbers.
+
+**Call Devin and the team at (805) 909-4450** or **[book online here](https://thousandoaksbarbers.com/book-now/)**. We're at 658 Thousand Oaks Blvd. and open daily, 10am–10pm. Stop in and see what a real barbershop facial can do.`
+  },
+  {
+    slug: 'afro-shaping-textured-hair-care-thousand-oaks',
+    title: 'Afro Shaping & Textured Hair Care: Barber Tips from Thousand Oaks',
+    seoTitle: 'Afro Shaping & Textured Hair Care | Thousand Oaks',
+    metaDescription: 'Expert Afro shaping and textured hair care in Thousand Oaks. Barber tips on curl-pattern shaping, moisture, and maintenance. Book with Devin today.',
+    date: 'Jul 31, 2026',
+    publishedAt: '2026-07-31',
+    category: 'Hair Care Tips',
+    excerpt: 'Expert Afro shaping and textured hair care in Thousand Oaks. Barber tips on curl-pattern shaping, moisture, and maintenance. Book with Devin today.',
+    content: `Textured hair is beautiful, versatile, and completely its own thing—and it deserves a barber who actually understands it. If you've ever left a shop with a cut that looked great wet but lost its shape the moment it dried, you already know the difference expertise makes. At Thousand Oaks Barbers, lead barber Devin has built a reputation across the Conejo Valley for reading curl patterns, respecting hair texture, and shaping Afros that hold their look long after you walk out the door.
+
+Here's what goes into great Afro shaping, why textured hair calls for a specialist, and how to keep your hair healthy between visits.
+
+## What Afro Shaping Actually Involves
+
+Afro shaping isn't a standard clipper cut. It's a sculpting process—part technique, part eye for proportion. Done right, it works *with* your hair instead of forcing it into a shape it doesn't want to hold.
+
+### Freeform Shaping and an Even Silhouette
+
+The goal of a shape-up is a clean, balanced silhouette from every angle. A skilled barber shapes freeform, trimming and rounding your Afro so the outline is even and intentional—not flat on one side or lopsided in the back. This takes patience and constant checking, because the shape you see up close isn't always the shape people see from across the room.
+
+### Working With Your Curl Pattern and Shrinkage
+
+This is where experience really shows. Textured hair shrinks—sometimes dramatically—so its length when stretched is very different from its length when dry and coiled. A barber who understands shrinkage cuts for how your hair actually behaves once it settles, not just how it looks in the chair. That means anticipating how each section will spring back, keeping density even, and preserving your natural curl pattern rather than fighting it. The result is a shape that looks deliberate whether your hair is freshly picked out or living its natural life.
+
+## Why Textured Hair Needs a Barber Who Understands It
+
+Not every barber is trained on textured hair, and it shows. Coily and curly hair responds differently to clippers, scissors, and combs than straight hair does. The wrong technique can leave uneven patches, damage curl formation, or create a shape that collapses within a day.
+
+A barber who knows textured hair will assess your specific pattern before touching a tool, choose the right approach for your density and length, and know which products actually help your hair type. Devin's Google reviews consistently mention exactly this—clients notice that he understands different hair types and knows his hair-care products. That knowledge is the difference between a haircut and a shape that genuinely fits you.
+
+## Finding Textured-Hair Expertise in the Conejo Valley
+
+Let's be honest: finding a barber in Thousand Oaks who truly specializes in textured and Afro hair can be a challenge. Plenty of people in the Conejo Valley end up driving well outside the area—or settling for a cut that doesn't quite work—because local options feel limited.
+
+That's exactly the gap Thousand Oaks Barbers fills. Right on Thousand Oaks Blvd., you get a traditional barbershop experience *and* real textured-hair skill in one chair. No long drives, no compromises—just a local barber who knows what your hair needs.
+
+## Caring for Textured Hair Between Visits
+
+A great shape-up is only half the equation. What you do at home keeps your hair healthy and your shape looking sharp until your next appointment.
+
+### Moisture Is Everything
+
+Textured hair tends to run dry because natural oils travel down coiled strands more slowly. Keeping your hair moisturized is the single most important habit for healthy curls—it prevents breakage, reduces frizz, and keeps your curl pattern defined. A quality wash-and-condition routine sets the foundation. Our shop's [2-in-1 Shampoo & Conditioner](https://thousandoaksbarbers.com/product/2-1-shampoo-conditioner/) is formulated to clean and hydrate in one step, which makes staying consistent a lot easier.
+
+### Use a Pick, Not a Fine Comb
+
+To keep your Afro full and evenly shaped, pick your hair out gently from the roots rather than raking a fine-tooth comb through it. A pick lifts and shapes without snapping strands or flattening your natural volume. Work in sections, be patient, and you'll maintain that clean silhouette between visits.
+
+### Protect Your Hair at Night
+
+Cotton pillowcases pull moisture out of your hair and rough up the cuticle while you sleep, leading to frizz and breakage. Wrapping your hair in a satin or silk scarf—or sleeping on a satin pillowcase—keeps moisture locked in and your shape intact. It's a small change that makes a big difference by morning.
+
+## How Often Should You Book a Shape-Up?
+
+For a crisp, defined Afro shape, most clients do best coming in every two to four weeks, depending on how fast your hair grows and how sharp you like to keep your outline. If you prefer a fuller, more freeform look, you can stretch that timeline a bit longer. During your visit, Devin can recommend a rhythm that fits your hair goals and lifestyle.
+
+And textured-hair expertise isn't just for adults—if your little ones need a cut too, check out our tips on [kids' haircuts that bring smiles](https://thousandoaksbarbers.com/kids-haircuts-that-bring-smiles/).
+
+## Book Your Afro Shaping in Thousand Oaks
+
+Your hair deserves a barber who sees its texture as an asset, not an obstacle. Whether you're due for a fresh shape-up, want product guidance tailored to your curls, or you're finally ready to stop searching for a barber who *gets* textured hair, Devin and the team at Thousand Oaks Barbers are ready to help.
+
+Visit us at **658 Thousand Oaks Blvd., Thousand Oaks, CA 91360**—open daily from 10am to 10pm.
+
+📞 Call **(805) 909-4450** or [**book your appointment online now**](https://thousandoaksbarbers.com/book-now/). Pricing is available when you book.`
+  },
+  {
+    slug: 'kids-haircuts-thousand-oaks-parents-guide',
+    title: "Kids Haircuts in Thousand Oaks: A Parent's Guide",
+    seoTitle: "Kids Haircuts in Thousand Oaks: A Parent's Guide",
+    metaDescription: "Nervous kid? First haircut? Our parent's guide to kids haircuts in Thousand Oaks covers styles by age, curly hair tips & what to expect at the barbershop.",
+    date: 'Jul 28, 2026',
+    publishedAt: '2026-07-28',
+    category: 'Kids Haircuts',
+    excerpt: "Nervous kid? First haircut? Our parent's guide to kids haircuts in Thousand Oaks covers styles by age, curly hair tips & what to expect at the barbershop.",
+    content: `If you've ever tried to convince a wiggly four-year-old that the clippers aren't a monster, you know that a kid's haircut is about a lot more than hair. It's about trust, patience, and finding the right chair. As a barbershop that's given countless kids haircuts in Thousand Oaks, we've learned how to turn nervous first-timers into kids who actually *ask* to come back.
+
+## Preparing a Nervous Kid (Especially for a First Haircut)
+
+### Talk about it before the day arrives
+A few days ahead, explain in simple terms: "You'll sit in a special chair, it goes up like an elevator, and the barber will make your hair neat." Watching an older sibling or parent get a cut first works wonders.
+
+### Time it right
+Schedule around naps and meals. A rested, fed kid is a cooperative kid.
+
+### Bring comfort, skip the pressure
+A favorite toy or a tablet is welcome. Tears happen — totally normal. Devin is known for his patience; he'll slow down, chat, and let your kid warm up at their own pace.
+
+## Popular Kids' Haircut Styles by Age
+
+### Toddlers (1–3)
+Keep it simple. A basic trim or soft low-maintenance cut. First haircuts are about a calm, positive experience.
+
+### Little kids (4–7)
+Classic short cuts, textured crops, and the ever-popular buzz cut — easy to maintain and comfortable for active kids, especially in Conejo Valley summers.
+
+### Big kids and tweens (8–12)
+Fades, crew cuts, longer skater-style tops. A good barber listens to your kid directly — a great confidence moment.
+
+## What a Kid-Friendly Barbershop Visit Actually Looks Like
+It's the barber, not the decor. Your child gets settled (a booster if needed), the barber shows them the comb, lets them hear the clippers, then works efficiently but never in a hurry. Parents welcome to stand close or hold a smaller child on their lap.
+
+More in our earlier post, [Kid's Haircuts That Bring Smiles](https://thousandoaksbarbers.com/kids-haircuts-that-bring-smiles/).
+
+## Open Until 10pm Daily: Haircuts That Fit Real Family Schedules
+Bring your kid in after dinner, on a weeknight, without rearranging your day. No taking time off work just to get a trim before picture day.
+
+## Tips for Kids with Curly and Textured Hair
+- **Curls shrink** — an experienced barber cuts with shrinkage in mind.
+- **Shape matters more than length** — our Afro shaping service focuses on a clean, even shape.
+- **Ask how your child's hair behaves** — a barber who asks about curl pattern will do it right.
+
+Devin works with all hair types and takes real care with textured hair.
+
+## Making Haircuts Something Your Kid Looks Forward To
+Keep visits consistent (every 4–6 weeks for most short styles) and let them have a say as they get older.
+
+### Ready for a Haircut Your Kid Will Actually Enjoy?
+Thousand Oaks Barbers · 658 Thousand Oaks Blvd., Thousand Oaks, CA 91360 · Open daily 10am–10pm. Call **(805) 909-4450** or [book online](https://thousandoaksbarbers.com/book-now/) — walk-ins welcome.`
+  },
+  {
+    slug: 'barbershop-open-late-thousand-oaks',
+    title: "Barbershop Open Late in Thousand Oaks: We're Open Until 10pm Every Day",
+    seoTitle: 'Barbershop Open Late in Thousand Oaks | Open Til 10pm Daily',
+    metaDescription: "Need a barbershop open late? Thousand Oaks Barbers is open every day 10am–10pm. Evening haircuts, beard trims & straight razor shaves. Book online now.",
+    date: 'Jul 24, 2026',
+    publishedAt: '2026-07-24',
+    category: 'Local Guides',
+    excerpt: "Need a barbershop open late? Thousand Oaks Barbers is open every day 10am–10pm. Evening haircuts, beard trims & straight razor shaves. Book online now.",
+    content: `If you've ever typed "barbershop open late near me" into your phone at 7pm and come up empty, you already know the problem: most barbershops in the Conejo Valley lock their doors by 6 or 7 o'clock — right around the time most of us are finally getting off work.
+
+At Thousand Oaks Barbers, we decided to do things differently. **We're open every single day from 10am to 10pm.** No early closings, no "weekend hours only," no guessing. Whether it's a Tuesday night after a long shift or a Sunday evening before a big Monday, there's a chair waiting for you at 658 Thousand Oaks Blvd.
+
+## Why We Stay Open Until 10pm
+
+Simple: because life doesn't end at 5pm.
+
+Our shop sits right in the heart of Thousand Oaks, and our clients are the people who keep this community running — professionals commuting back over the 101, parents juggling school pickups and practices, students at Cal Lutheran and Moorpark College cramming for exams. For most of them, a daytime haircut means taking time off work or rearranging the whole family calendar.
+
+An evening haircut in Thousand Oaks shouldn't be that hard. So we made it easy.
+
+### A Real Haircut After Work — Not a Rushed One
+
+There's another benefit to late hours that people don't expect: the evenings are often the most relaxed time in the shop. You're not squeezing a cut into a lunch break or watching the clock. You sit down, Devin or one of our barbers takes the time to actually talk through what you want, and you walk out with a cut that was done right — not done fast.
+
+## Who Our Late Hours Are Built For
+
+### Busy Professionals
+Meetings ran long? Flight tomorrow morning? Devin has personally made sure regulars boarded flights looking sharp after an 8 or 9pm cut. When your schedule is unpredictable, a barbershop open until 10pm every day is one less thing to plan around.
+
+### Parents and Families
+Swing by after dinner, get the kids' cuts handled, and hop in the chair yourself while you're at it. Two birds, one visit.
+
+### Last-Minute Moments That Matter
+A date tonight. An interview tomorrow. Family photos this weekend. Our late hours exist exactly for those moments.
+
+## Full Barbershop Services, Morning to Night
+- Haircuts — classic cuts, fades, tapers, modern styles
+- Beard trims and line ups
+- Straight razor shaves
+- Kids cuts
+- Afro shaping
+- Facials
+
+Not sure how often you should come in? Check out [how often men should get haircuts](https://thousandoaksbarbers.com/how-often-should-men-get-haircuts-barber-advice/).
+
+## Where to Find Us in Thousand Oaks
+Easy to reach from Newbury Park, Westlake Village, Agoura Hills, Moorpark, and Camarillo.
+
+Thousand Oaks Barbers · 658 Thousand Oaks Blvd., Thousand Oaks, CA 91360 · (805) 909-4450 · Open every day, 10am–10pm. [Book online](https://thousandoaksbarbers.com/book-now/).
+
+## The Bottom Line
+If you've been searching for a barber open late in Thousand Oaks, you can stop searching. Seven days a week, mid-morning until 10pm.
+
+> **Ready for a fresh cut on your schedule?** Open every day, 10am–10pm. [Book online](https://thousandoaksbarbers.com/book-now/) or call **(805) 909-4450** — evening appointments and walk-ins welcome at 658 Thousand Oaks Blvd.`
+  },
+  {
     slug: 'beard-trim-line-up-thousand-oaks',
     title: 'Beard Trim & Line Up in Thousand Oaks: Styles, Prices & What to Ask For',
     seoTitle: 'Beard Trim & Line Up in Thousand Oaks | Styles & Tips',
