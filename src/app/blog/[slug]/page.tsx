@@ -3,6 +3,9 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getPostBySlug, getAllPostSlugs } from '@/lib/blog-data';
 
+// Revalidate every 24 hours (86400 seconds) so scheduled posts surface automatically
+export const revalidate = 86400;
+
 interface Props {
   params: Promise<{ slug: string }>;
 }

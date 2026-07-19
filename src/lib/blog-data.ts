@@ -4,6 +4,7 @@ export interface BlogPost {
   seoTitle?: string;
   metaDescription?: string;
   date: string;
+  publishedAt: string; // ISO date string, e.g. "2026-07-21"
   category: string;
   excerpt: string;
   image?: string;
@@ -17,6 +18,7 @@ export const blogPosts: BlogPost[] = [
     seoTitle: 'Beard Trim & Line Up in Thousand Oaks | Styles & Tips',
     metaDescription: 'Get a sharp beard trim and line up in Thousand Oaks. Popular styles, what to ask your barber, and aftercare tips from Thousand Oaks Barbers. Book today.',
     date: 'Jul 21, 2026',
+    publishedAt: '2026-07-19', // Live today despite future display date
     category: 'Beard Care & Grooming',
     excerpt: 'A great beard doesn\'t happen by accident. Whether you\'re growing out a full beard for the first time or you\'ve been rocking one for years, regular professional trims are the difference between "well-groomed" and "went camping and forgot a razor."',
     content: `A great beard doesn't happen by accident. Whether you're growing out a full beard for the first time or you've been rocking one for years, regular professional trims are the difference between "well-groomed" and "went camping and forgot a razor." If you've been searching for a beard trim in Thousand Oaks, here's everything you need to know before you sit in the chair — the styles worth asking for, what a proper line up actually involves, and how to keep your beard looking sharp between visits.
@@ -95,6 +97,7 @@ Ready for a beard that looks like you meant it? Thousand Oaks Barbers is a tradi
     slug: 'affordable-haircuts-in-thousand-oaks-where-to-go',
     title: 'Affordable Haircuts in Thousand Oaks: Where to Go',
     date: 'Apr 29, 2026',
+    publishedAt: '2026-04-29',
     category: 'Haircuts',
     excerpt: "Finding an affordable haircut in Thousand Oaks shouldn't mean settling for uneven fades, rushed service, or a style that doesn't fit your hair type.",
     image: 'https://images.unsplash.com/photo-1599351431202-1e0f0137899a?w=800&h=500&fit=crop',
@@ -141,6 +144,7 @@ Thousand Oaks Barbers is built around a simple goal: provide reliable, great-loo
     slug: 'best-barber-shop-in-thousand-oaks-ca-2026-guide',
     title: 'Best Barber Shop in Thousand Oaks, CA (2026 Guide)',
     date: 'Mar 20, 2026',
+    publishedAt: '2026-03-20',
     category: 'Barbers',
     excerpt: 'Looking for the best barber shop in Thousand Oaks, CA in 2026? Whether you want a sharp fade, a classic scissor cut, or a clean beard lineup, this guide has you covered.',
     image: 'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800&h=500&fit=crop',
@@ -185,6 +189,7 @@ Whether you're new to the area or upgrading your grooming routine in 2026, Thous
     slug: 'why-every-man-deserves-a-great-barber',
     title: 'Why Every Man Deserves a Great Barber',
     date: 'Dec 27, 2024',
+    publishedAt: '2024-12-27',
     category: 'Barbers',
     excerpt: 'A skilled barber can do much more than just cut hair and trim beards—they can transform your appearance and boost your confidence.',
     image: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=800&h=500&fit=crop',
@@ -214,6 +219,7 @@ Visiting a barber shop is not just about getting a haircut—it's an opportunity
     slug: 'straight-razor-shaves-in-thousand-oaks-what-to-expect',
     title: 'Straight Razor Shaves in Thousand Oaks: What to Expect',
     date: 'Apr 11, 2026',
+    publishedAt: '2026-04-11',
     category: 'Shaving',
     excerpt: "If you're curious about trying a straight razor shave in Thousand Oaks, you're in for a classic barbershop experience that's equal parts relaxation and precision.",
     image: 'https://images.unsplash.com/photo-1622286342621-4bd786c2447c?w=800&h=500&fit=crop',
@@ -255,6 +261,7 @@ If you're ready to upgrade your grooming routine, a straight razor shave is one 
     slug: 'kids-haircuts-that-bring-smiles',
     title: "Kid's Haircuts That Bring Smiles",
     date: 'Jan 26, 2025',
+    publishedAt: '2025-01-26',
     category: 'Kids Haircuts',
     excerpt: "Getting your child a haircut can often feel like a stressful event, but it doesn't need to be! With the right approach, your kid's haircut experience can transform into a fun activity.",
     image: 'https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=800&h=500&fit=crop',
@@ -287,6 +294,7 @@ A successful trip to the salon isn't just about the haircut—it's about creatin
     slug: 'how-often-should-men-get-haircuts-barber-advice',
     title: 'How Often Should Men Get Haircuts? (Barber Advice)',
     date: 'Mar 27, 2026',
+    publishedAt: '2026-03-27',
     category: 'Haircuts',
     excerpt: "If you've ever wondered how often you should be getting a haircut, you're not alone. The right schedule depends on your hairstyle, hair type, and how sharp you like to look.",
     image: 'https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?w=800&h=500&fit=crop',
@@ -332,6 +340,7 @@ Your ideal haircut frequency depends on how you wear your hair and how you want 
     slug: 'top-haircut-trends-for-2025',
     title: 'Top Haircut Trends for 2025',
     date: 'Jan 19, 2025',
+    publishedAt: '2025-01-19',
     category: "Men's Hair Styles",
     excerpt: 'The year 2025 is shaping up to be all about individuality and bold self-expression in the world of hairstyling.',
     image: 'https://images.unsplash.com/photo-1620122830784-c29a955e0c77?w=800&h=500&fit=crop',
@@ -371,10 +380,40 @@ The haircut trends of 2025 are all about celebrating diversity, bold choices, an
   },
 ];
 
-export function getPostBySlug(slug: string): BlogPost | undefined {
-  return blogPosts.find(post => post.slug === slug);
+/**
+ * Get current date in America/Los_Angeles timezone as YYYY-MM-DD
+ */
+function getTodayLA(): string {
+  return new Date().toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
 }
 
+/**
+ * Returns only posts whose publishedAt date is <= today (America/Los_Angeles timezone).
+ * Use this for public-facing blog listings and lookups.
+ */
+export function getPublishedPosts(): BlogPost[] {
+  const today = getTodayLA();
+  return blogPosts.filter(post => post.publishedAt <= today);
+}
+
+/**
+ * Get a published post by slug. Returns undefined if not found or not yet published.
+ */
+export function getPostBySlug(slug: string): BlogPost | undefined {
+  const publishedPosts = getPublishedPosts();
+  return publishedPosts.find(post => post.slug === slug);
+}
+
+/**
+ * Get all slugs of published posts (for generateStaticParams).
+ */
 export function getAllPostSlugs(): string[] {
-  return blogPosts.map(post => post.slug);
+  return getPublishedPosts().map(post => post.slug);
+}
+
+/**
+ * Get ALL posts (published + scheduled) for admin/API purposes.
+ */
+export function getAllPosts(): BlogPost[] {
+  return blogPosts;
 }
