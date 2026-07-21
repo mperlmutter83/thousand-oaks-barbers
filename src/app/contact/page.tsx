@@ -49,9 +49,9 @@ export default function ContactPage() {
 
                 <div className="bg-zinc-900 rounded-xl p-8">
                   <h3 className="text-amber-500 font-semibold mb-4">Hours</h3>
-                  <p className="text-gray-400">Monday – Friday: 10am – 10pm</p>
-                  <p className="text-gray-400">Saturday: 10am – 10pm</p>
-                  <p className="text-gray-400">Sunday: 10am – 10pm</p>
+                  <p className="text-gray-400">Monday – Friday: 10:30am – 6pm</p>
+                  <p className="text-gray-400">Saturday: 10:30am – 4:30pm</p>
+                  <p className="text-gray-400">Sunday: Closed</p>
                 </div>
               </div>
             </div>

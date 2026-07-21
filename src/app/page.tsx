@@ -90,7 +90,8 @@ export default function Home() {
               <p className="text-white text-xl mb-2">658 Thousand Oaks Blvd.</p>
               <p className="text-gray-400 mb-6">Thousand Oaks, CA 91360</p>
               <h3 className="text-amber-500 font-semibold mb-4">Hours</h3>
-              <p className="text-gray-400">Monday – Sunday: 10am – 10pm</p>
+              <p className="text-gray-400">Mon – Fri: 10:30am – 6pm</p>
+              <p className="text-gray-400">Sat: 10:30am – 4:30pm · Sun: Closed</p>
             </div>
           </div>
         </div>
