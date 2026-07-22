@@ -86,7 +86,7 @@ That's it. Easy in, easy out, no complicated regimen to keep up with.
 
 You take care of your car, your gear, your fade — your skin deserves the same. A scrub & black mask facial is one of the easiest ways to feel sharper, and it fits right into a visit to Thousand Oaks Barbers.
 
-**Call Devin and the team at (805) 909-4450** or **[book online here](https://thousandoaksbarbers.com/book-now/)**. We're at 658 Thousand Oaks Blvd. and open daily, 10am–10pm. Stop in and see what a real barbershop facial can do.`
+**Call Devin and the team at (805) 909-4450** or **[book online here](https://thousandoaksbarbers.com/book-now/)**. We're at 658 Thousand Oaks Blvd. and open Mon–Fri 10:30am–6pm, Sat 10:30am–4:30pm. Stop in and see what a real barbershop facial can do.`
   },
   {
     slug: 'afro-shaping-textured-hair-care-thousand-oaks',
@@ -151,7 +151,7 @@ And textured-hair expertise isn't just for adults—if your little ones need a c
 
 Your hair deserves a barber who sees its texture as an asset, not an obstacle. Whether you're due for a fresh shape-up, want product guidance tailored to your curls, or you're finally ready to stop searching for a barber who *gets* textured hair, Devin and the team at Thousand Oaks Barbers are ready to help.
 
-Visit us at **658 Thousand Oaks Blvd., Thousand Oaks, CA 91360**—open daily from 10am to 10pm.
+Visit us at **658 Thousand Oaks Blvd., Thousand Oaks, CA 91360**—open Mon–Fri 10:30am–6pm and Sat 10:30am–4:30pm.
 
 📞 Call **(805) 909-4450** or [**book your appointment online now**](https://thousandoaksbarbers.com/book-now/). Pricing is available when you book.`
   },
@@ -207,63 +207,48 @@ Devin works with all hair types and takes real care with textured hair.
 Keep visits consistent (every 4–6 weeks for most short styles) and let them have a say as they get older.
 
 ### Ready for a Haircut Your Kid Will Actually Enjoy?
-Thousand Oaks Barbers · 658 Thousand Oaks Blvd., Thousand Oaks, CA 91360 · Open daily 10am–10pm. Call **(805) 909-4450** or [book online](https://thousandoaksbarbers.com/book-now/) — walk-ins welcome.`
+Thousand Oaks Barbers · 658 Thousand Oaks Blvd., Thousand Oaks, CA 91360 · Open Mon–Fri 10:30am–6pm, Sat 10:30am–4:30pm. Call **(805) 909-4450** or [book online](https://thousandoaksbarbers.com/book-now/) — walk-ins welcome.`
   },
   {
-    slug: 'barbershop-open-late-thousand-oaks',
-    title: "Barbershop Open Late in Thousand Oaks: We're Open Until 10pm Every Day",
-    seoTitle: 'Barbershop Open Late in Thousand Oaks | Open Til 10pm Daily',
-    metaDescription: "Need a barbershop open late? Thousand Oaks Barbers is open every day 10am–10pm. Evening haircuts, beard trims & straight razor shaves. Book online now.",
+    slug: 'kids-haircuts-first-haircut-thousand-oaks',
+    title: "Your Child's First Haircut: How We Make It Easy at Thousand Oaks Barbers",
+    seoTitle: "Kids First Haircut in Thousand Oaks | Stress-Free Kids Cuts",
+    metaDescription: "Nervous about your child's first haircut? Thousand Oaks Barbers makes kids cuts calm, quick & fun. Patient barbers, family-friendly shop. Book online today.",
     date: 'Jul 24, 2026',
     publishedAt: '2026-07-24',
-    category: 'Local Guides',
-    excerpt: "Need a barbershop open late? Thousand Oaks Barbers is open every day 10am–10pm. Evening haircuts, beard trims & straight razor shaves. Book online now.",
-    content: `If you've ever typed "barbershop open late near me" into your phone at 7pm and come up empty, you already know the problem: most barbershops in the Conejo Valley lock their doors by 6 or 7 o'clock — right around the time most of us are finally getting off work.
+    category: 'Kids Haircuts',
+    excerpt: "Nervous about your child's first haircut? Thousand Oaks Barbers makes kids cuts calm, quick & fun. Patient barbers, family-friendly shop. Book online today.",
+    content: `A first haircut is a real milestone — right up there with first steps and first words. It can also be the moment a toddler decides that clippers are terrifying and chairs that pump up and down are not to be trusted. At Thousand Oaks Barbers, we've guided a lot of families through that first cut, and we've learned exactly what turns a nervous kid into a regular who actually looks forward to the barbershop.
 
-At Thousand Oaks Barbers, we decided to do things differently. **We're open every single day from 10am to 10pm.** No early closings, no "weekend hours only," no guessing. Whether it's a Tuesday night after a long shift or a Sunday evening before a big Monday, there's a chair waiting for you at 658 Thousand Oaks Blvd.
+## Why First Haircuts Go Sideways (And How We Prevent It)
 
-## Why We Stay Open Until 10pm
+Kids don't fear haircuts — they fear the unknown. New sounds, a stranger with scissors, a cape that swallows them whole. Our barbers slow everything down:
 
-Simple: because life doesn't end at 5pm.
+- **We let them watch first.** If a parent or older sibling gets a cut before them, the mystery disappears.
+- **We show, then do.** Clippers get introduced on a hand or arm first so they can feel the buzz before it goes near their head.
+- **We keep it moving.** A first cut doesn't need to be perfect — it needs to be positive. We'd rather do a quick, happy trim than a flawless cut with tears.
+- **Parents stay close.** Lap sits are welcome for the littlest clients.
 
-Our shop sits right in the heart of Thousand Oaks, and our clients are the people who keep this community running — professionals commuting back over the 101, parents juggling school pickups and practices, students at Cal Lutheran and Moorpark College cramming for exams. For most of them, a daytime haircut means taking time off work or rearranging the whole family calendar.
+## Tips for Parents Before You Come In
 
-An evening haircut in Thousand Oaks shouldn't be that hard. So we made it easy.
+1. **Time it right.** Aim for after a nap and a snack — never right before bedtime.
+2. **Skip the word "cut."** Some kids hear "cut" and think pain. Try "trim" or "tidy-up."
+3. **Bring a comfort item.** A favorite toy or a video queued up on your phone works wonders.
+4. **Keep your own energy calm.** Kids read the room. If you're relaxed, they usually are too.
 
-### A Real Haircut After Work — Not a Rushed One
+## What About Older Kids?
 
-There's another benefit to late hours that people don't expect: the evenings are often the most relaxed time in the shop. You're not squeezing a cut into a lunch break or watching the clock. You sit down, Devin or one of our barbers takes the time to actually talk through what you want, and you walk out with a cut that was done right — not done fast.
+School-age kids have opinions — fades like their friends, a specific look from a game or a show. We take those requests seriously. Treating a 9-year-old like a real client is how you build a kid's confidence, and honestly, it's how we build ours. A kid who loves his haircut sits still for the next one.
 
-## Who Our Late Hours Are Built For
+## Kids Cuts Are a Family Affair Here
 
-### Busy Professionals
-Meetings ran long? Flight tomorrow morning? Devin has personally made sure regulars boarded flights looking sharp after an 8 or 9pm cut. When your schedule is unpredictable, a barbershop open until 10pm every day is one less thing to plan around.
-
-### Parents and Families
-Swing by after dinner, get the kids' cuts handled, and hop in the chair yourself while you're at it. Two birds, one visit.
-
-### Last-Minute Moments That Matter
-A date tonight. An interview tomorrow. Family photos this weekend. Our late hours exist exactly for those moments.
-
-## Full Barbershop Services, Morning to Night
-- Haircuts — classic cuts, fades, tapers, modern styles
-- Beard trims and line ups
-- Straight razor shaves
-- Kids cuts
-- Afro shaping
-- Facials
-
-Not sure how often you should come in? Check out [how often men should get haircuts](https://thousandoaksbarbers.com/how-often-should-men-get-haircuts-barber-advice/).
-
-## Where to Find Us in Thousand Oaks
-Easy to reach from Newbury Park, Westlake Village, Agoura Hills, Moorpark, and Camarillo.
-
-Thousand Oaks Barbers · 658 Thousand Oaks Blvd., Thousand Oaks, CA 91360 · (805) 909-4450 · Open every day, 10am–10pm. [Book online](https://thousandoaksbarbers.com/book-now/).
+Plenty of parents book back-to-back: kids first, then a cut or beard trim for themselves while the kids hang out. One trip, everyone leaves sharp. We serve families from Thousand Oaks, Newbury Park, Westlake Village, Agoura Hills, and Moorpark.
 
 ## The Bottom Line
-If you've been searching for a barber open late in Thousand Oaks, you can stop searching. Seven days a week, mid-morning until 10pm.
 
-> **Ready for a fresh cut on your schedule?** Open every day, 10am–10pm. [Book online](https://thousandoaksbarbers.com/book-now/) or call **(805) 909-4450** — evening appointments and walk-ins welcome at 658 Thousand Oaks Blvd.`
+First haircut or fiftieth, we want every kid who sits in our chairs to leave smiling — and every parent to leave with one less thing to stress about.
+
+> **Ready for a stress-free kids haircut?** Call **(805) 909-4450** or [book online](https://thousandoaksbarbers.com/book-now/) — walk-ins welcome at 658 Thousand Oaks Blvd.`
   },
   {
     slug: 'beard-trim-line-up-thousand-oaks',
@@ -342,7 +327,7 @@ A professional trim sets the shape — your daily routine maintains it:
 
 ## Visit Thousand Oaks Barbers
 
-Ready for a beard that looks like you meant it? Thousand Oaks Barbers is a traditional barbershop at **658 Thousand Oaks Blvd., Thousand Oaks, CA 91360**, open daily from **10am to 10pm** — so a sharp line up fits your schedule, not the other way around. Whether you need a full beard reshape, a quick edge-up, or a trim paired with a fresh cut, Devin and the team will get you dialed in.
+Ready for a beard that looks like you meant it? Thousand Oaks Barbers is a traditional barbershop at **658 Thousand Oaks Blvd., Thousand Oaks, CA 91360**, open **Mon–Fri 10:30am–6pm and Sat 10:30am–4:30pm**. Whether you need a full beard reshape, a quick edge-up, or a trim paired with a fresh cut, Devin and the team will get you dialed in.
 
 **[Book your beard trim online](https://thousandoaksbarbers.com/book-now/) or call (805) 909-4450 today.** Walk out with the cleanest lines in the Conejo Valley.`
   },

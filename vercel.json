@@ -11,6 +11,11 @@
       "source": "/blogs/:slug",
       "destination": "/blog/:slug",
       "permanent": true
+    },
+    {
+      "source": "/blog/barbershop-open-late-thousand-oaks",
+      "destination": "/blog/kids-haircuts-first-haircut-thousand-oaks",
+      "permanent": true
     }
   ]
 }
