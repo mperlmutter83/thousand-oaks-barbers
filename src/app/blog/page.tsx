@@ -1,17 +1,22 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { getPublishedPosts } from '@/lib/blog-data';
+import { getPosts, toRenderPost, type RenderPost } from '@/lib/api';
 
 // Revalidate every 24 hours (86400 seconds) so scheduled posts surface automatically
-export const revalidate = 86400;
 
 export const metadata: Metadata = {
   title: 'Blog',
   description: 'Barber tips, haircut trends, and grooming advice from Thousand Oaks Barbers. Expert insights for men\'s grooming.',
 };
 
-export default function BlogPage() {
-  const publishedPosts = getPublishedPosts();
+const SITE_DOMAIN = 'thousandoaksbarbers.com';
+
+export const revalidate = 60;
+
+export default async function BlogPage() {
+  const apiPosts = await getPosts(SITE_DOMAIN);
+  const publishedPosts: RenderPost[] = apiPosts.length > 0 ? apiPosts.map(toRenderPost) : getPublishedPosts();
 
   return (
     <>
