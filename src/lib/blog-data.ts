@@ -13,6 +13,81 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'barbershop-open-late-thousand-oaks',
+    title: "Barbershop Open Late in Thousand Oaks: We're Open Until 10pm Every Day",
+    seoTitle: 'Barbershop Open Late in Thousand Oaks | Open Til 10pm Daily',
+    metaDescription: 'Need a barbershop open late? Thousand Oaks Barbers is open every day 10am–10pm. Evening haircuts, beard trims & straight razor shaves. Book online now.',
+    date: 'Jul 26, 2026',
+    publishedAt: '2026-07-26',
+    category: 'Barbershop News & Local Guides',
+    excerpt: 'Need a barbershop open late? Thousand Oaks Barbers is open every day 10am–10pm. Evening haircuts, beard trims & straight razor shaves. Book online now.',
+    content: `If you've ever typed "barbershop open late near me" into your phone at 7pm and come up empty, you already know the problem: most barbershops in the Conejo Valley lock their doors by 6 or 7 o'clock — right around the time most of us are finally getting off work.
+
+At Thousand Oaks Barbers, we decided to do things differently. **We're open every single day from 10am to 10pm.** No early closings, no "weekend hours only," no guessing. Whether it's a Tuesday night after a long shift or a Sunday evening before a big Monday, there's a chair waiting for you at 658 Thousand Oaks Blvd.
+
+## Why We Stay Open Until 10pm
+
+Simple: because life doesn't end at 5pm.
+
+Our shop sits right in the heart of Thousand Oaks, and our clients are the people who keep this community running — professionals commuting back over the 101, parents juggling school pickups and practices, students at Cal Lutheran and Moorpark College cramming for exams. For most of them, a daytime haircut means taking time off work or rearranging the whole family calendar.
+
+An evening haircut in Thousand Oaks shouldn't be that hard. So we made it easy.
+
+### A Real Haircut After Work — Not a Rushed One
+
+There's another benefit to late hours that people don't expect: the evenings are often the most relaxed time in the shop. You're not squeezing a cut into a lunch break or watching the clock. You sit down, Devin or one of our barbers takes the time to actually talk through what you want, and you walk out with a cut that was done right — not done fast.
+
+That's the traditional barbershop experience we believe in: skilled hands, honest conversation, and no rush.
+
+## Who Our Late Hours Are Built For
+
+### Busy Professionals
+
+Meetings ran long? Flight tomorrow morning? We hear it all the time. More than a few of our regulars have come in at 8 or 9pm the night before a business trip, and Devin has personally made sure they boarded that flight looking sharp. When your schedule is unpredictable, a barbershop that's open until 10pm every day is one less thing to plan around.
+
+### Parents and Families
+
+Getting a kid a haircut during business hours usually means pulling them out of school or sacrificing a precious weekend morning. With our hours, you can swing by after dinner, get the kids' cuts handled, and even hop in the chair yourself while you're at it. Two birds, one visit.
+
+### Last-Minute Moments That Matter
+
+A date tonight. An interview tomorrow. Family photos this weekend. Some haircuts can't wait until "next available opening, Thursday at 2pm." Our late hours exist exactly for those moments — the fresh line up before a first date, the clean fade before you shake a hiring manager's hand. If it matters to you, it's worth looking your best for, and we've got you covered right up until 10pm.
+
+## Full Barbershop Services, Morning to Night
+
+Late hours don't mean limited service. Everything we do during the day, we do at night:
+
+- **Haircuts** — classic cuts, fades, tapers, and modern styles
+- **Beard trims and line ups** — sharp, clean, and shaped to your face
+- **Straight razor shaves** — the traditional hot-lather experience
+- **Kids cuts** — patient barbers who make it easy on everyone
+- **Afro shaping** — precision shaping from barbers who know textured hair
+- **Facials** — because grooming doesn't stop at the hairline
+
+Not sure how often you should be coming in to keep your cut looking fresh? We wrote a full guide on that — check out [how often men should get haircuts, straight from the barber](https://thousandoaksbarbers.com/how-often-should-men-get-haircuts-barber-advice/).
+
+## Where to Find Us in Thousand Oaks
+
+We're easy to reach from anywhere in the Conejo Valley — Newbury Park, Westlake Village, Agoura Hills, Moorpark, and Camarillo are all a short drive away.
+
+**Thousand Oaks Barbers**
+658 Thousand Oaks Blvd.
+Thousand Oaks, CA 91360
+📞 [(805) 909-4450](tel:8059094450)
+
+**Hours: Open every day, 10am–10pm**
+
+Walk-ins are welcome, but if you want to guarantee your spot — especially on busy evenings — booking ahead takes about thirty seconds: **[Book your appointment online](https://thousandoaksbarbers.com/book-now/)**.
+
+## The Bottom Line
+
+If you've been searching for a barber open late in Thousand Oaks, you can stop searching. Seven days a week, from mid-morning until 10 at night, our chairs are open and our barbers are ready. No more skipping haircuts because work got in the way. No more showing up to the big moment with last month's cut.
+
+Come see why so many of your neighbors have made us their after-hours barbershop.
+
+> **Ready for a fresh cut on your schedule?** Thousand Oaks Barbers is open every day, 10am–10pm. [Book online now](https://thousandoaksbarbers.com/book-now/) or call **(805) 909-4450** — evening appointments and walk-ins welcome at 658 Thousand Oaks Blvd.`
+  },
+  {
     slug: 'mens-facial-thousand-oaks-scrub-black-mask',
     title: "Men's Facials at the Barbershop: Scrub & Black Mask Explained",
     seoTitle: "Men's Facials Thousand Oaks | Scrub & Black Mask",
