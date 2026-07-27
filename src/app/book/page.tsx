@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import BookingEmbed from '@/components/BookingEmbed';
+import HoursLines from '@/components/HoursLines';
 
 export const metadata: Metadata = {
   title: 'Book Now',
@@ -45,8 +46,7 @@ export default function BookPage() {
             <p className="text-gray-400 text-lg mb-6">Thousand Oaks, CA 91360</p>
             
             <h3 className="text-xl font-semibold text-white mb-4">Hours</h3>
-            <p className="text-gray-400">Mon – Fri: 10:30am – 6pm</p>
-            <p className="text-gray-400">Sat: 10:30am – 4:30pm · Sun: Closed</p>
+            <HoursLines className="text-gray-400" />
           </div>
 
           <div className="mt-12 text-center">

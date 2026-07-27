@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import HoursLines from '@/components/HoursLines';
 
 export default function Footer() {
   return (
@@ -43,9 +44,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4 text-amber-500">Open Hours</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>Monday – Friday: 10:30am – 6pm</li>
-              <li>Saturday: 10:30am – 4:30pm</li>
-              <li>Sunday: Closed</li>
+              <HoursLines as="li" />
             </ul>
           </div>
         </div>
