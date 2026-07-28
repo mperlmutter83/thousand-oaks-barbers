@@ -13,6 +13,83 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'kids-haircuts-thousand-oaks-parents-guide',
+    title: "Kids Haircuts in Thousand Oaks: A Parent's Guide",
+    seoTitle: "Kids Haircuts in Thousand Oaks: A Parent's Guide",
+    metaDescription: "Nervous kid? First haircut? Our parent's guide to kids haircuts in Thousand Oaks covers styles by age, curly hair tips & what to expect at the barbershop.",
+    date: 'Jul 28, 2026',
+    publishedAt: '2026-07-28',
+    category: 'Kids Haircuts',
+    excerpt: "Nervous kid? First haircut? Our parent's guide to kids haircuts in Thousand Oaks covers styles by age, curly hair tips & what to expect at the barbershop.",
+    content: `If you've ever tried to convince a wiggly four-year-old that the clippers aren't a monster, you know that a kid's haircut is about a lot more than hair. It's about trust, patience, and finding the right chair. As a barbershop that's given countless kids haircuts in Thousand Oaks over the years, we've learned a thing or two about turning nervous first-timers into kids who actually *ask* to come back. Here's everything Conejo Valley parents should know.
+
+## Preparing a Nervous Kid (Especially for a First Haircut)
+
+A first haircut in Thousand Oaks — or anywhere — can feel big for a little one. New place, new sounds, a stranger with scissors near their head. A little prep goes a long way:
+
+### Talk about it before the day arrives
+
+Kids handle new experiences better when they know what's coming. A few days ahead, explain the visit in simple terms: "You'll sit in a special chair, it goes up like an elevator, and the barber will make your hair neat." Watching an older sibling or a parent get a cut first works wonders — kids learn by seeing.
+
+### Time it right
+
+Schedule around naps and meals. A rested, fed kid is a cooperative kid. Avoid squeezing a haircut between two other errands when everyone's already frazzled.
+
+### Bring comfort, skip the pressure
+
+A favorite toy, a tablet with their show — whatever keeps them settled is welcome. And if tears happen? Totally normal. A good children's barber has seen it all and won't rush your child. Our owner and lead barber, Devin, is known around here for exactly that kind of patience — he'll slow down, chat with your kid, and let them warm up at their own pace.
+
+## Popular Kids' Haircut Styles by Age
+
+Not sure what to ask for? Here's what we see most in the chair:
+
+### Toddlers (1–3 years)
+
+Keep it simple. A basic trim or a soft, low-maintenance cut that keeps hair out of their eyes. First haircuts at this age are less about style and more about a calm, quick, positive experience.
+
+### Little kids (4–7 years)
+
+This is when personality shows up. Classic short cuts, textured crops, and the ever-popular buzz cut are big — easy for parents to maintain and comfortable for active kids. Buzz cuts are especially popular in our warm Conejo Valley summers.
+
+### Big kids and tweens (8–12 years)
+
+Now *they* have opinions. Fades, crew cuts, longer skater-style tops, and cuts inspired by athletes or whatever's trending at school. A good barber will listen to your kid directly — it's a great confidence moment when a nine-year-old gets to describe the cut they want and walks out looking sharp.
+
+## What a Kid-Friendly Barbershop Visit Actually Looks Like
+
+If you've been searching "children's barber near me" and wondering what separates a kid-friendly shop from an ordinary one, here's the honest answer: it's the barber, not the decor.
+
+A typical kids' visit at our shop goes like this. Your child gets settled in the chair (a booster if needed), the barber talks through what's happening — showing them the comb, letting them hear the clippers before they touch — and then works efficiently but never in a hurry. Parents are welcome to stand close, hold a hand, or even hold a smaller child on their lap for a first cut. The goal is simple: your kid leaves with a great haircut *and* a good memory, so the next visit is easier than the last.
+
+We wrote more about this in an earlier post, [Kid's Haircuts That Bring Smiles](https://thousandoaksbarbers.com/kids-haircuts-that-bring-smiles/), if you'd like a closer look at how we approach the littlest clients.
+
+## Open Until 10pm Daily: Haircuts That Fit Real Family Schedules
+
+Here's something Thousand Oaks parents genuinely appreciate: we're open every day from 10am to 10pm. That matters more than it sounds.
+
+Between school pickup, soccer practice in the Conejo Valley leagues, homework, and dinner, weekday afternoons vanish fast. Evening availability means you can bring your kid in after dinner, on a weeknight, without rearranging your whole day. Weekend morning slots work great for younger kids at their freshest; evening slots are perfect for tweens and busy school-year schedules. No taking time off work just to get a trim before picture day.
+
+## Tips for Kids with Curly and Textured Hair
+
+Curly, coily, and textured hair deserves a barber who truly knows how to cut it — and unfortunately, not every shop does. A few things every parent of a curly-haired kid should know:
+
+- **Curls shrink.** Hair that looks like two inches dry can be four inches stretched. An experienced barber cuts with shrinkage in mind, so there are no surprises when the hair dries.
+- **Shape matters more than length.** For textured hair, a great cut is about the overall silhouette. Our Afro shaping service focuses on creating a clean, even shape that grows out gracefully — not just taking length off.
+- **Ask how your child's hair behaves.** A barber who asks about your kid's curl pattern, how you style it at home, and how it dries is a barber who's going to do it right.
+
+Devin works with all hair types and takes real care with textured hair — detail-oriented shaping, patience with detangling, and cuts that respect the curl instead of fighting it.
+
+## Making Haircuts Something Your Kid Looks Forward To
+
+The best kids' haircut experience is a boring one — no drama, no tears, just a comfortable routine your child comes to enjoy. Find a barber your kid trusts, keep visits consistent (every 4–6 weeks for most short styles), and let them have a say in their look as they get older. Before you know it, they'll be climbing into the chair on their own.
+
+### Ready for a Haircut Your Kid Will Actually Enjoy?
+
+Stop by **Thousand Oaks Barbers** at 658 Thousand Oaks Blvd., Thousand Oaks, CA 91360 — we're open daily from 10am to 10pm, so there's always a time that fits your family's schedule. Whether it's a first haircut, a back-to-school buzz cut, or expert Afro shaping, Devin and the team will make your child feel right at home.
+
+📞 Call us at **(805) 909-4450** or [book your kid's appointment online](https://thousandoaksbarbers.com/book-now/) — walk-ins welcome, but booking guarantees your spot.`
+  },
+  {
     slug: 'barbershop-open-late-thousand-oaks',
     title: "Barbershop Open Late in Thousand Oaks: We're Open Until 10pm Every Day",
     seoTitle: 'Barbershop Open Late in Thousand Oaks | Open Til 10pm Daily',
