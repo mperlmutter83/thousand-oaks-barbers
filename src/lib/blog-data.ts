@@ -1742,7 +1742,7 @@ Thousand Oaks Barbers provides men's cuts across Thousand Oaks and the Conejo Va
     seoTitle: "What to Look for in a Thousand Oaks Barber Shop (Beyond Just the Cut)",
     metaDescription: "Not all barber shops are the same. Here's a practical guide to evaluating Thousand Oaks barber shops so you find one that's right for you.",
     date: 'Aug 28, 2026',
-    publishedAt: '2026-08-28',
+    publishedAt: '2026-08-27',
     category: "Barbers",
     excerpt: "Not all barber shops are the same. Here's a practical guide to evaluating Thousand Oaks barber shops so you find one that's right for you.",
     content: `Choosing a barber shop in Thousand Oaks involves more than finding the closest one or going where your friends go. The shop itself — atmosphere, barbers, services, consistency — affects every visit. This guide is for anyone in the Thousand Oaks area who wants to make a thoughtful choice about where to get their hair cut.
