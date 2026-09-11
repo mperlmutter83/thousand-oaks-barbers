@@ -41,6 +41,22 @@ export default async function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* RFM site data - pushed before GTM loads */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  rfm: {
+    schema_version: "1.0",
+    site_id: "thousand_oaks_barbers",
+    provider_id: "ed940936-4dc6-41ca-ae9a-09d9f22f970f",
+    provider_name: "Thousand Oaks Barbers",
+    service_category: "barber",
+    market: "thousand_oaks"
+  }
+});`,
+          }}
+        />
         {/* Google Tag Manager */}
         <script
           dangerouslySetInnerHTML={{
