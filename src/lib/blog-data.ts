@@ -2373,60 +2373,6 @@ Visit us at **658 Thousand Oaks Blvd., Thousand Oaks, CA 91360**—open Mon–Fr
 📞 Call **(805) 909-4450** or [**book your appointment online now**](https://thousandoaksbarbers.com/book-now/). Pricing is available when you book.`
   },
   {
-    slug: 'kids-haircuts-thousand-oaks-parents-guide',
-    title: "Kids Haircuts in Thousand Oaks: A Parent's Guide",
-    seoTitle: "Kids Haircuts in Thousand Oaks: A Parent's Guide",
-    metaDescription: "Nervous kid? First haircut? Our parent's guide to kids haircuts in Thousand Oaks covers styles by age, curly hair tips & what to expect at the barbershop.",
-    date: 'Jul 28, 2026',
-    publishedAt: '2026-07-28',
-    category: 'Kids Haircuts',
-    excerpt: "Nervous kid? First haircut? Our parent's guide to kids haircuts in Thousand Oaks covers styles by age, curly hair tips & what to expect at the barbershop.",
-    content: `If you've ever tried to convince a wiggly four-year-old that the clippers aren't a monster, you know that a kid's haircut is about a lot more than hair. It's about trust, patience, and finding the right chair. As a barbershop that's given countless kids haircuts in Thousand Oaks, we've learned how to turn nervous first-timers into kids who actually *ask* to come back.
-
-## Preparing a Nervous Kid (Especially for a First Haircut)
-
-### Talk about it before the day arrives
-A few days ahead, explain in simple terms: "You'll sit in a special chair, it goes up like an elevator, and the barber will make your hair neat." Watching an older sibling or parent get a cut first works wonders.
-
-### Time it right
-Schedule around naps and meals. A rested, fed kid is a cooperative kid.
-
-### Bring comfort, skip the pressure
-A favorite toy or a tablet is welcome. Tears happen — totally normal. Devin is known for his patience; he'll slow down, chat, and let your kid warm up at their own pace.
-
-## Popular Kids' Haircut Styles by Age
-
-### Toddlers (1–3)
-Keep it simple. A basic trim or soft low-maintenance cut. First haircuts are about a calm, positive experience.
-
-### Little kids (4–7)
-Classic short cuts, textured crops, and the ever-popular buzz cut — easy to maintain and comfortable for active kids, especially in Conejo Valley summers.
-
-### Big kids and tweens (8–12)
-Fades, crew cuts, longer skater-style tops. A good barber listens to your kid directly — a great confidence moment.
-
-## What a Kid-Friendly Barbershop Visit Actually Looks Like
-It's the barber, not the decor. Your child gets settled (a booster if needed), the barber shows them the comb, lets them hear the clippers, then works efficiently but never in a hurry. Parents welcome to stand close or hold a smaller child on their lap.
-
-More in our earlier post, [Kid's Haircuts That Bring Smiles](https://thousandoaksbarbers.com/kids-haircuts-that-bring-smiles/).
-
-## Open Until 10pm Daily: Haircuts That Fit Real Family Schedules
-Bring your kid in after dinner, on a weeknight, without rearranging your day. No taking time off work just to get a trim before picture day.
-
-## Tips for Kids with Curly and Textured Hair
-- **Curls shrink** — an experienced barber cuts with shrinkage in mind.
-- **Shape matters more than length** — our Afro shaping service focuses on a clean, even shape.
-- **Ask how your child's hair behaves** — a barber who asks about curl pattern will do it right.
-
-Devin works with all hair types and takes real care with textured hair.
-
-## Making Haircuts Something Your Kid Looks Forward To
-Keep visits consistent (every 4–6 weeks for most short styles) and let them have a say as they get older.
-
-### Ready for a Haircut Your Kid Will Actually Enjoy?
-Thousand Oaks Barbers · 658 Thousand Oaks Blvd., Thousand Oaks, CA 91360 · Open Mon–Fri 10:30am–6pm, Sat 10:30am–4:30pm. Call **(805) 909-4450** or [book online](https://thousandoaksbarbers.com/book-now/) — walk-ins welcome.`
-  },
-  {
     slug: 'kids-haircuts-first-haircut-thousand-oaks',
     title: "Your Child's First Haircut: How We Make It Easy at Thousand Oaks Barbers",
     seoTitle: "Kids First Haircut in Thousand Oaks | Stress-Free Kids Cuts",
