@@ -1,6 +1,6 @@
 'use client';
 
-import { useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
 const EXPERIENCE_OPTIONS = [
   'No experience yet — willing to learn',
@@ -26,8 +26,14 @@ export default function WorkForm() {
     company_website: '',
   });
   const [status, setStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
-  const submissionId = useRef<string>(crypto.randomUUID());
-  const startedAt = useRef<number>(Date.now());
+  // Spam-gate metadata — generated outside render (impure calls are
+  // not allowed during render). Timestamp set on mount, UUID on submit.
+  const submissionId = useRef<string | null>(null);
+  const startedAt = useRef<number>(0);
+
+  useEffect(() => {
+    startedAt.current = Date.now();
+  }, []);
 
   const updateField = (field: keyof typeof formData, value: string) => {
     setFormData((current) => ({ ...current, [field]: value }));
@@ -36,6 +42,7 @@ export default function WorkForm() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setStatus('submitting');
+    submissionId.current ??= crypto.randomUUID();
 
     try {
       const response = await fetch('/api/lead', {
